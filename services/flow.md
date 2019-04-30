@@ -16,6 +16,8 @@ description: 项目研发合作流程
 
 签订合同，客户支付预付款，启动项目
 
+{% file src="../.gitbook/assets/xi-bang-xiang-mu-kai-fa-he-tong.pdf" caption="合同模板" %}
+
 ## 产品原型
 
 设计交互原型，在正式开发前让客户对成品有个更直观的认识
