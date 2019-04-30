@@ -4,5 +4,5 @@
 
 ## 财务
 
-* [支付](group/payment.md)
+* [支付](financial/payment.md)
 
