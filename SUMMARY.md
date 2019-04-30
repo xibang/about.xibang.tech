@@ -4,5 +4,5 @@
 
 ## 财务
 
-* [支付](group/zhi-fu.md)
+* [支付](group/payment.md)
 
