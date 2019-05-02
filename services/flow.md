@@ -10,13 +10,15 @@ description: 项目研发合作流程
 
 ## 报价
 
-根据需求和项目周期给出报价及人员安排等，参考项目报告
+根据需求和项目周期给出报价及人员安排等。
+
+参考项目需求报价模板：[https://shimo.im/docs/zZ66rYCAzzA3CoPg/](https://shimo.im/docs/zZ66rYCAzzA3CoPg/)
 
 ## 签约
 
 签订合同，客户支付预付款，启动项目。
 
-项目合同模板：[https://shimo.im/docs/d4337c30f6fe4f5d/](https://shimo.im/docs/d4337c30f6fe4f5d/) 
+参考项目合同模板：[https://shimo.im/docs/d4337c30f6fe4f5d/](https://shimo.im/docs/d4337c30f6fe4f5d/) 
 
 ## 产品原型
 
