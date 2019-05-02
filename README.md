@@ -26,3 +26,7 @@ description: 公司简介
 
 行业经验：智能家居管理平台、无人机管理平台、数据交换（EDI）平台、开放接口平台、运维管理系统、商城及报单系统等。
 
+
+
+同时，公司将致力于推进开源事业的发展。请关注 Github： [https://github.com/xibang](https://github.com/xibang)
+
