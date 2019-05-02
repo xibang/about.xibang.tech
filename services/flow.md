@@ -14,7 +14,9 @@ description: 项目研发合作流程
 
 ## 签约
 
-签订合同，客户支付预付款，启动项目
+签订合同，客户支付预付款，启动项目。
+
+项目合同模板：[https://shimo.im/docs/d4337c30f6fe4f5d/](https://shimo.im/docs/d4337c30f6fe4f5d/) 
 
 ## 产品原型
 
