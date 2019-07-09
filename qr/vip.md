@@ -4,7 +4,9 @@ description: 会员定价标准
 
 # VIP会员
 
-
+{% hint style="info" %}
+新注册用户免费体验7天VIP会员。
+{% endhint %}
 
 | 功能 | 免费用户 | VIP会员 |
 | :--- | :--- | :--- |
