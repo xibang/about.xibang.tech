@@ -26,5 +26,11 @@ VIP会员价格：
 * 81元/半年（9折）
 * 144元/年（8折）
 
+{% hint style="danger" %}
+注意：会员到期后，高级规则的条件将会失效。
+{% endhint %}
 
+为保证高级条件范围的使用，请及时对您的账号进行续费。
+
+网站链接： [https://qr.xibang.tech/ ](https://qr.xibang.tech/%20)
 
