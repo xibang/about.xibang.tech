@@ -13,6 +13,7 @@
 
 ## 智能二维码 <a id="qr"></a>
 
+* [二维码活码介绍](qr/intro.md)
 * [VIP会员](qr/vip.md)
 * [创建三码合一付款码](qr/pay-with-qr.md)
 * [更多场景、玩法](qr/fun.md)
