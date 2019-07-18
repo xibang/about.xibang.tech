@@ -6,15 +6,15 @@ description: 创建支付宝、微信、QQ、钉钉N码合一好友码
 
 ### 创建N个目标链接
 
-![&#x76EE;&#x6807;&#x94FE;&#x63A5;](../.gitbook/assets/wx20190709-142010-2x.png)
+![&#x76EE;&#x6807;&#x94FE;&#x63A5;](../.gitbook/assets/wx20190718-095245-2x.png)
 
-分别将支付宝、微信支付和QQ支付付款码上传并自动识别。
+分别将支付宝、微信和QQ、和钉钉好友二维码上传并自动识别。
 
-### 创建支付码（活码）
+### 创建好友码（活码）
 
-![&#x521B;&#x5EFA;&#x4ED8;&#x6B3E;&#x7801;](../.gitbook/assets/wx20190709-154612-2x.png)
+![&#x521B;&#x5EFA;&#x597D;&#x53CB;&#x7801;](../.gitbook/assets/wx20190718-095405-2x.png)
 
-参考上图，创建三个目标链接，条件范围均按终端类型进行判断。
+参考上图，创建N个目标链接，条件范围均按终端类型进行判断。
 
 
 
@@ -22,7 +22,7 @@ description: 创建支付宝、微信、QQ、钉钉N码合一好友码
 
 效果演示，可以分别用不同的客户端扫描以下的付款码二维码：
 
-![https://u.xb.pub/qmqGbdKpmzOFcM-](../.gitbook/assets/1562658192.png)
+![https://u.xb.pub/QlKmLA3bF2TvhC-](../.gitbook/assets/1563415054.png)
 
 ### 进阶使用
 
