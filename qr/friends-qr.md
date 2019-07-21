@@ -4,6 +4,8 @@ description: 创建支付宝、微信、QQ、钉钉N码合一好友码
 
 # 创建N合一好友码
 
+视频优酷教程： [https://v.youku.com/v\_show/id\_XNDI4MTQ1NDQzNg==.html](https://v.youku.com/v_show/id_XNDI4MTQ1NDQzNg==.html)
+
 ### 创建N个目标链接
 
 ![&#x76EE;&#x6807;&#x94FE;&#x63A5;](../.gitbook/assets/wx20190718-095245-2x.png)
